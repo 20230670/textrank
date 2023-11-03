@@ -15,3 +15,4 @@ ratio (Float, 선택적) : 텍스트 원문에 대한 요약 비율
 word_count (Int, 선택적) : 요약문에 포함될 단어의 수. ratio 인자와 같이 사용시 word_count 인자 우선함
 spilt (Bool, 선택적) : True로 전달하면 list 형태로 반환, False로 전달하면 String으로 반환
 """
+#생각보다 꽤 잘 되어서 놀랐습니다. 코랩에서는 잘 돌아가지 않아 파이참에서 돌려보니 잘 돌아갔습니다.
